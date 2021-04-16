@@ -6,7 +6,7 @@
 
 ● Diagrama de clases
 
-Consigna:
+## Consigna:
 
 Se requiere:
 
