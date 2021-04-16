@@ -4,8 +4,11 @@ Maco Wins
 Se requiere:
 
 ●	Identificar los requerimientos
+
 ●	Presentar una solución usando el paradigma de objetos (pseudocódigo, diagrama de clases).
+
 ●	Explicar todo lo que considere necesario en prosa.
+
 ●	Si se descarta alguna alternativa durante el desarrollo de la solución, o si se tiene otra solución, explicarla brevemente.
 
 
