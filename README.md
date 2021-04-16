@@ -1,6 +1,6 @@
 # DDS-Ejercicio-Macowins
 
-#Entrego
+## Entrego
 
 ● Proyecto en wollok
 
