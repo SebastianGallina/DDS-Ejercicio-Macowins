@@ -1,5 +1,11 @@
 # DDS-Ejercicio-Macowins
-Maco Wins
+
+##Entrego
+● Proyecto en wollok
+
+● Diagrama de clases
+
+Consigna:
 
 Se requiere:
 
